@@ -10,7 +10,7 @@
 
 <p align="center">
   <em>
-    I am Saurabh Yadav, a recent CSE undergraduate who likes to Build and Dig stuff.  <br><br>
+    I am Ajay Singh Panwar, a recent CSE undergraduate who likes to Build and Dig stuff.  <br><br>
     A budding <b>Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Crazy Programmer Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>interested</b> in exploring the tech world passionately.&nbsp.
   </em> 
   <br><br>
