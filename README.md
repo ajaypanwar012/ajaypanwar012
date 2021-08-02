@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center"><b>Hello, fellow &lt coders </b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/&gt! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<br>
+<a href="https://www.linkedin.com/in/ajay-panwar-939b52150/">
+  <img align="center" alt="Ajay @LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+  <a href="mailto:ajaypanwar012@gmail.com">
+  <img align="center" alt="Ajay @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+</h1>
 
-<!--
-**ajaypanwar012/ajaypanwar012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>
+    I am Saurabh Yadav, a recent CSE undergraduate who likes to Build and Dig stuff.  <br><br>
+    A budding <b>Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Crazy Programmer Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>interested</b> in exploring the tech world passionately.&nbsp.
+  </em> 
+  <br><br>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/>
+  <b>
+    <i>I am currently learning everything and working on cool tech-stacks</i></b> 
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /> 
+  <br><br>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"> 
+  
+  <p align="center">
+  <em>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp;Fun-Fact: I am Happy to bud in this tech world and we all can come together walking and exploring this beautiful world </em></p>
