@@ -10,13 +10,13 @@
 
 <p align="center">
   <em>
-    I am Ajay Singh Panwar, a recent CSE undergraduate who likes to Build and Dig stuff.  <br><br>
+    I am Ajay Singh Panwar, a striving Software Engineer who likes to Build and Dig stuff.  <br><br>
     A budding <b>Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Crazy Programmer Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>interested</b> in exploring the tech world passionately.&nbsp.
   </em> 
   <br><br>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/>
   <b>
-    <i>I am currently learning everything and working on cool tech-stacks</i></b> 
+    <i>I am currently learning MERN full-stack</i></b> 
   <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /> 
   <br><br>
 </p>
