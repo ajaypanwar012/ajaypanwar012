@@ -15,8 +15,7 @@
   </em> 
   <br><br>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/>
-  <b>
-    <i>I am currently learning MERN full-stack</i></b> 
+  <b></b> 
   <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /> 
   <br><br>
 </p>
